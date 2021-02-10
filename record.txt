@@ -1,0 +1,3 @@
+('Mayank Kumar Gupta', '18', 'M', 'Salsa', 'Kairali', '03-02-21')
+('Aryan RAj', '16', 'M', 'Solo', 'Kairali School', '03-02-21')
+('', '', '', '', '', '')
